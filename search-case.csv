@@ -1,0 +1,498 @@
+str,slug,key,id
+Asma Kat,dairenin_kati,APARTMENT_FLOOR , 59
+Bahçe dublex kat,dairenin_kati,APARTMENT_FLOOR , 19
+Bahçe katı,dairenin_kati,APARTMENT_FLOOR , 18
+Çatı Katı,dairenin_kati,APARTMENT_FLOOR , 21
+Çatı Dubleks kat,dairenin_kati,APARTMENT_FLOOR , 20
+Düz giriş,dairenin_kati,APARTMENT_FLOOR , 14
+Yüksek giriş,dairenin_kati,APARTMENT_FLOOR , 13
+Kot 1 kat,dairenin_kati,APARTMENT_FLOOR , 56
+Kot 2 kat,dairenin_kati,APARTMENT_FLOOR , 57
+Kot 3 kat,dairenin_kati,APARTMENT_FLOOR , 58
+Müstakil kat,dairenin_kati,APARTMENT_FLOOR , 54
+Yarı bodrum kat,dairenin_kati,APARTMENT_FLOOR , 16
+Tam bodrum kat,dairenin_kati,APARTMENT_FLOOR , 17
+Yüksek bodrum kat,dairenin_kati,APARTMENT_FLOOR , 15
+Villa tipi kat,dairenin_kati,APARTMENT_FLOOR , 55
+1. kat,dairenin_kati,APARTMENT_FLOOR , 12
+2. kat,dairenin_kati,APARTMENT_FLOOR , 11
+3. kat,dairenin_kati,APARTMENT_FLOOR , 10
+4. kat,dairenin_kati,APARTMENT_FLOOR , 9
+5. kat,dairenin_kati,APARTMENT_FLOOR , 8
+6. kat,dairenin_kati,APARTMENT_FLOOR , 7
+7. kat,dairenin_kati,APARTMENT_FLOOR , 6
+8. kat,dairenin_kati,APARTMENT_FLOOR , 5
+9. kat,dairenin_kati,APARTMENT_FLOOR , 4
+10. kat,dairenin_kati,APARTMENT_FLOOR , 22
+11. kat,dairenin_kati,APARTMENT_FLOOR , 23
+12. kat,dairenin_kati,APARTMENT_FLOOR , 24
+13. kat,dairenin_kati,APARTMENT_FLOOR , 25
+14. kat,dairenin_kati,APARTMENT_FLOOR , 26
+15. kat,dairenin_kati,APARTMENT_FLOOR , 27
+16. kat,dairenin_kati,APARTMENT_FLOOR , 28
+17. kat,dairenin_kati,APARTMENT_FLOOR , 29
+18. kat,dairenin_kati,APARTMENT_FLOOR , 30
+19. kat,dairenin_kati,APARTMENT_FLOOR , 31
+20. kat,dairenin_kati,APARTMENT_FLOOR , 32
+21. kat,dairenin_kati,APARTMENT_FLOOR , 33
+22. kat,dairenin_kati,APARTMENT_FLOOR , 34
+23. kat,dairenin_kati,APARTMENT_FLOOR , 35
+24. kat,dairenin_kati,APARTMENT_FLOOR , 36
+25. kat,dairenin_kati,APARTMENT_FLOOR , 37
+26. kat,dairenin_kati,APARTMENT_FLOOR , 38
+27. kat,dairenin_kati,APARTMENT_FLOOR , 39
+28. kat,dairenin_kati,APARTMENT_FLOOR , 40
+29. kat,dairenin_kati,APARTMENT_FLOOR , 41
+30. kat,dairenin_kati,APARTMENT_FLOOR , 42
+31. kat,dairenin_kati,APARTMENT_FLOOR , 43
+32. kat,dairenin_kati,APARTMENT_FLOOR , 44
+33. kat,dairenin_kati,APARTMENT_FLOOR , 45
+34. kat,dairenin_kati,APARTMENT_FLOOR , 46
+35. kat,dairenin_kati,APARTMENT_FLOOR , 47
+36. kat,dairenin_kati,APARTMENT_FLOOR , 48
+37. kat,dairenin_kati,APARTMENT_FLOOR , 49
+38. kat,dairenin_kati,APARTMENT_FLOOR , 50
+39. kat,dairenin_kati,APARTMENT_FLOOR , 51
+40. kat,dairenin_kati,APARTMENT_FLOOR , 52
+40+ kat,dairenin_kati,APARTMENT_FLOOR , 53
+10-20 kat,dairenin_kati,APARTMENT_FLOOR , 3
+Açık Balkon,yapi_ozellik,STRUCTURAL_FEATURES , 25
+Açık Havuz,yapi_ozellik,STRUCTURAL_FEATURES , 6190
+Açık Otopark,yapi_ozellik,STRUCTURAL_FEATURES , 8
+Açık Restoran,yapi_ozellik,STRUCTURAL_FEATURES , 7031
+Açık Teras,yapi_ozellik,STRUCTURAL_FEATURES , 14
+ADSL,yapi_ozellik,STRUCTURAL_FEATURES , 300
+Ahşap Doğrama,yapi_ozellik,STRUCTURAL_FEATURES , 302
+banyosuz,banyo_sayisi,BATHROOM_COUNT , 1
+1 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 1
+2 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 2
+3 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 3
+4 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 4
+5 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 5
+6 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 6
+7 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 7
+8 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 8
+9 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 9
+10 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 10
+11 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 11
+krediye uygunluğu bilinmeyen,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 1
+kredi durumu bilinmeyen,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 1
+kredi uygunluğu bilinmeyen,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 1
+Isıtma yok,isitma,HEATING , 1
+ısıtmasız,isitma,HEATING , 1
+Alarm,yapi_ozellik,STRUCTURAL_FEATURES , 23
+Alışveriş Merkezi,yapi_ozellik,STRUCTURAL_FEATURES , 400
+Alkol İzni,yapi_ozellik,STRUCTURAL_FEATURES , 6110
+Alüminyum Doğrama,yapi_ozellik,STRUCTURAL_FEATURES , 401
+Amerikan Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 200
+Ankastre Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 201
+Apartman Görevlisi,yapi_ozellik,STRUCTURAL_FEATURES , 29
+Arıtma,yapi_ozellik,STRUCTURAL_FEATURES , 7029
+Arka Cephe,yapi_ozellik,STRUCTURAL_FEATURES , 500
+Asansör,yapi_ozellik,STRUCTURAL_FEATURES , 9
+Asma Tavan,yapi_ozellik,STRUCTURAL_FEATURES , 2302
+ATM,yapi_ozellik,STRUCTURAL_FEATURES , 7039
+Atölye,yapi_ozellik,STRUCTURAL_FEATURES , 2601
+Müstakil tapu,tapu_konumu,DEED_POSITION , 1
+Müstakil tapulu,tapu_konumu,DEED_POSITION , 1
+İşyeri,gm_tipi,CATEGORY , 3
+Bahçe,yapi_ozellik,STRUCTURAL_FEATURES , 6120
+Bahçe - Müstakil,yapi_ozellik,STRUCTURAL_FEATURES , 12
+Bahçe - Ortak,yapi_ozellik,STRUCTURAL_FEATURES , 420
+Balkon,yapi_ozellik,STRUCTURAL_FEATURES , 7043
+Banka,yapi_ozellik,STRUCTURAL_FEATURES , 2602
+Kiralık,gm_durumu,TRADE_TYPE , 2
+Banyo - Müstakil,yapi_ozellik,STRUCTURAL_FEATURES , 2303
+Banyo - Ortak,yapi_ozellik,STRUCTURAL_FEATURES , 2312
+Barbekü,yapi_ozellik,STRUCTURAL_FEATURES , 13
+Basketbol Saha,yapi_ozellik,STRUCTURAL_FEATURES , 10
+Batı Cepheli,yapi_ozellik,STRUCTURAL_FEATURES , 7017
+Bebek Bakıcısı,yapi_ozellik,STRUCTURAL_FEATURES , 7035
+Benzin İstasyonu,yapi_ozellik,STRUCTURAL_FEATURES , 7040
+Beyaz Eşya,yapi_ozellik,STRUCTURAL_FEATURES , 4
+20-30 kat,dairenin_kati,APARTMENT_FLOOR , 2
+30-40 kat,dairenin_kati,APARTMENT_FLOOR , 1
+0 yıllık bina,binanin_yasi,BUILDING_AGE , 1
+2 banyolu,banyo_sayisi,BATHROOM_COUNT , 3
+3 banyolu,banyo_sayisi,BATHROOM_COUNT , 4
+Yok wc,wc_sayisi,TOILETS_COUNT , 1
+Yapım Aşamasında,yapi_durumu,BUILDING_STATUS , 3
+12 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 12
+13 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 13
+Yerden ısıtma,isitma,HEATING , 10
+Yerden ısıtmalı,isitma,HEATING , 10
+Jeotermik,isitma,HEATING , 11
+Bilardo,yapi_ozellik,STRUCTURAL_FEATURES , 6130
+Binicilik,yapi_ozellik,STRUCTURAL_FEATURES , 6135
+Boğaz,yapi_ozellik,STRUCTURAL_FEATURES , 6505
+Bowling,yapi_ozellik,STRUCTURAL_FEATURES , 6140
+Bulaşık Makinesi,yapi_ozellik,STRUCTURAL_FEATURES , 7002
+Cadde Üzerinde,yapi_ozellik,STRUCTURAL_FEATURES , 34
+Caddeye Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 502
+Cafe - Bar,yapi_ozellik,STRUCTURAL_FEATURES , 6145
+Cam Giydirme,yapi_ozellik,STRUCTURAL_FEATURES , 2401
+Çamaşır Makinesi,yapi_ozellik,STRUCTURAL_FEATURES , 7000
+Çamaşır Odası,yapi_ozellik,STRUCTURAL_FEATURES , 313
+Çay Bahçesi,yapi_ozellik,STRUCTURAL_FEATURES , 402
+Çelik Kapı,yapi_ozellik,STRUCTURAL_FEATURES , 24
+Çift Cephe,yapi_ozellik,STRUCTURAL_FEATURES , 503
+Çocuk Havuzu,yapi_ozellik,STRUCTURAL_FEATURES , 6150
+Çocuk Parkı,yapi_ozellik,STRUCTURAL_FEATURES , 403
+Data Hattı,yapi_ozellik,STRUCTURAL_FEATURES , 2304
+Deniz,yapi_ozellik,STRUCTURAL_FEATURES , 1503
+Deniz Manzaralı,yapi_ozellik,STRUCTURAL_FEATURES , 6507
+Deniz Otobüsü,yapi_ozellik,STRUCTURAL_FEATURES , 7024
+Denize Sıfır,yapi_ozellik,STRUCTURAL_FEATURES , 1501
+0 bina,binanin_yasi,BUILDING_AGE , 1
+sıfır bina,binanin_yasi,BUILDING_AGE , 1
+1 yıllık bina,binanin_yasi,BUILDING_AGE , 2
+4 banyolu,banyo_sayisi,BATHROOM_COUNT , 5
+tuvaletsiz,wc_sayisi,TOILETS_COUNT , 1
+wcsiz,wc_sayisi,TOILETS_COUNT , 1
+0 wc,wc_sayisi,TOILETS_COUNT , 1
+0 tuvaletli,wc_sayisi,TOILETS_COUNT , 1
+0 tuvalet,wc_sayisi,TOILETS_COUNT , 1
+14 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 14
+15 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 15
+16 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 16
+Yatırıma Uygun,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 2
+yatırımlık,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 2
+yatırıma uygun olan,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 2
+Denize Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 1502
+Depo,yapi_ozellik,STRUCTURAL_FEATURES , 2603
+Dershane,yapi_ozellik,STRUCTURAL_FEATURES , 2604
+Disko,yapi_ozellik,STRUCTURAL_FEATURES , 6155
+Doğa,yapi_ozellik,STRUCTURAL_FEATURES , 6508
+Doğa İçinde,yapi_ozellik,STRUCTURAL_FEATURES , 6520
+Doğalgaz,yapi_ozellik,STRUCTURAL_FEATURES , 1401
+Doğu Cepheli,yapi_ozellik,STRUCTURAL_FEATURES , 7016
+Dolaplı Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 203
+Dolmuş,yapi_ozellik,STRUCTURAL_FEATURES , 7021
+Dükkan,yapi_ozellik,STRUCTURAL_FEATURES , 2605
+Turistik Tesis,gm_tipi,CATEGORY , 6
+Devren,gm_durumu,TRADE_TYPE , 23
+Arsa,gm_tipi,CATEGORY , 1
+Duş / WC,yapi_ozellik,STRUCTURAL_FEATURES , 6610
+Duşakabinli,yapi_ozellik,STRUCTURAL_FEATURES , 32
+Duvar Kağıdı,yapi_ozellik,STRUCTURAL_FEATURES , 314
+E-5,yapi_ozellik,STRUCTURAL_FEATURES , 7023
+İskan Alınmış,iskan_durumu,SETTLEMENT_STATUS , 1
+İskanı Alınmış,iskan_durumu,SETTLEMENT_STATUS , 1
+İskanlı,iskan_durumu,SETTLEMENT_STATUS , 1
+5 Yıldız,yildiz_sayisi,STAR_COUNT , 1
+Konut,gm_tipi,CATEGORY , 2
+Satılık,gm_durumu,TRADE_TYPE , 1
+Kat Karşılığı,gm_durumu,TRADE_TYPE , 9
+17 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 17
+18 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 18
+Krediye Uygun Değil,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 3
+krediye uygun olmayan,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 3
+Kombi Kömür,isitma,HEATING , 12
+Kombi Kömürlü,isitma,HEATING , 12
+Ebeveyn Banyo,yapi_ozellik,STRUCTURAL_FEATURES , 100
+Eğlence Tesisleri,yapi_ozellik,STRUCTURAL_FEATURES , 404
+Elektrik Hattı,yapi_ozellik,STRUCTURAL_FEATURES , 1402
+Engelliye Uygun,yapi_ozellik,STRUCTURAL_FEATURES , 7013
+Fabrika,yapi_ozellik,STRUCTURAL_FEATURES , 2606
+Ferforje / Demir,yapi_ozellik,STRUCTURAL_FEATURES , 421
+Fiber,yapi_ozellik,STRUCTURAL_FEATURES , 7006
+Fitness,yapi_ozellik,STRUCTURAL_FEATURES , 6160
+Fırın,yapi_ozellik,STRUCTURAL_FEATURES , 7003
+Fransız Balkon,yapi_ozellik,STRUCTURAL_FEATURES , 7009
+1 wc,wc_sayisi,TOILETS_COUNT , 2
+19 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 19
+Futbol Sahası,yapi_ozellik,STRUCTURAL_FEATURES , 405
+Galeri / Showroom,yapi_ozellik,STRUCTURAL_FEATURES , 2607
+Garaj,yapi_ozellik,STRUCTURAL_FEATURES , 2402
+Gece Klubü,yapi_ozellik,STRUCTURAL_FEATURES , 6170
+Genel,yapi_ozellik,STRUCTURAL_FEATURES , 2608
+Giyinme Odası,yapi_ozellik,STRUCTURAL_FEATURES , 316
+Göl Manzaralı,yapi_ozellik,STRUCTURAL_FEATURES , 6555
+Golf,yapi_ozellik,STRUCTURAL_FEATURES , 6175
+Gömme Dolap,yapi_ozellik,STRUCTURAL_FEATURES , 318
+Görüntülü Diafon,yapi_ozellik,STRUCTURAL_FEATURES , 319
+Güneş Enerjisi,yapi_ozellik,STRUCTURAL_FEATURES , 6180
+Güney Cepheli,yapi_ozellik,STRUCTURAL_FEATURES , 7015
+Güvenlik,yapi_ozellik,STRUCTURAL_FEATURES , 6185
+Güvenlik Kamerası,yapi_ozellik,STRUCTURAL_FEATURES , 7027
+Halı Kaplama,yapi_ozellik,STRUCTURAL_FEATURES , 320
+5 Yıldızlı,yildiz_sayisi,STAR_COUNT , 1
+4 Yıldız,yildiz_sayisi,STAR_COUNT , 2
+Hastane,yapi_ozellik,STRUCTURAL_FEATURES , 2609
+Hastaneye Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 509
+Havaalanı,yapi_ozellik,STRUCTURAL_FEATURES , 7048
+Havaalanı Servisi,yapi_ozellik,STRUCTURAL_FEATURES , 7036
+Havaalanına Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 508
+Hazır Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 7004
+Hidrofor,yapi_ozellik,STRUCTURAL_FEATURES , 2
+Hisseli tapu,tapu_konumu,DEED_POSITION , 2
+Hisseli tapulu,tapu_konumu,DEED_POSITION , 2
+4 Yıldızlı,yildiz_sayisi,STAR_COUNT , 2
+3 Yıldız,yildiz_sayisi,STAR_COUNT , 3
+Hilton Banyo,yapi_ozellik,STRUCTURAL_FEATURES , 102
+Hırsız Alarmı,yapi_ozellik,STRUCTURAL_FEATURES , 7011
+İfrazlı,yapi_ozellik,STRUCTURAL_FEATURES , 1403
+Intercom,yapi_ozellik,STRUCTURAL_FEATURES , 7007
+İnternet,yapi_ozellik,STRUCTURAL_FEATURES , 6205
+İnternet Kafe,yapi_ozellik,STRUCTURAL_FEATURES , 406
+Isı Yalıtımı,yapi_ozellik,STRUCTURAL_FEATURES , 422
+2 yıllık bina,binanin_yasi,BUILDING_AGE , 3
+Yatırıma Uygun Değil,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 3
+yatırıma uygun olmayan,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 3
+Kombi Katı Yakıt,isitma,HEATING , 13
+Kombi Katı Yakıtlı,isitma,HEATING , 13
+Isıcam,yapi_ozellik,STRUCTURAL_FEATURES , 321
+İskele,yapi_ozellik,STRUCTURAL_FEATURES , 7041
+İtalyan Banyo,yapi_ozellik,STRUCTURAL_FEATURES , 104
+İtalyan Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 205
+Jakuzi,yapi_ozellik,STRUCTURAL_FEATURES , 20
+3 Yıldızlı,yildiz_sayisi,STAR_COUNT , 3
+Jeneratör,yapi_ozellik,STRUCTURAL_FEATURES , 3
+3 yıllık bina,binanin_yasi,BUILDING_AGE , 4
+4 yıllık bina,binanin_yasi,BUILDING_AGE , 5
+1 tuvaletli,wc_sayisi,TOILETS_COUNT , 2
+1 tuvalet,wc_sayisi,TOILETS_COUNT , 2
+20 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 20
+21 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 21
+22 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 22
+Güneş Enerjisi,isitma,HEATING , 14
+Güneş Enerjili,isitma,HEATING , 14
+Jeneratör,yapi_ozellik,STRUCTURAL_FEATURES , 6210
+Jimnastik Salonu,yapi_ozellik,STRUCTURAL_FEATURES , 6215
+Kablo TV - Uydu,yapi_ozellik,STRUCTURAL_FEATURES , 27
+Kafe - Bar,yapi_ozellik,STRUCTURAL_FEATURES , 2610
+Kafeterya,yapi_ozellik,STRUCTURAL_FEATURES , 407
+Kanalizasyon,yapi_ozellik,STRUCTURAL_FEATURES , 1404
+Kapalı Balkon,yapi_ozellik,STRUCTURAL_FEATURES , 306
+Kapalı Havuz,yapi_ozellik,STRUCTURAL_FEATURES , 6195
+Kapalı Otopark,yapi_ozellik,STRUCTURAL_FEATURES , 7
+Kapalı Restoran,yapi_ozellik,STRUCTURAL_FEATURES , 7032
+Kapalı Teras,yapi_ozellik,STRUCTURAL_FEATURES , 343
+Kartonpiyer,yapi_ozellik,STRUCTURAL_FEATURES , 325
+Katta Tek,yapi_ozellik,STRUCTURAL_FEATURES , 510
+Kayak,yapi_ozellik,STRUCTURAL_FEATURES , 6220
+Kayak Pistlerine Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 6525
+Kiler,yapi_ozellik,STRUCTURAL_FEATURES , 206
+Kiralık Kasa,yapi_ozellik,STRUCTURAL_FEATURES , 7045
+Klima,yapi_ozellik,STRUCTURAL_FEATURES , 30
+İskan Alınmamış,iskan_durumu,SETTLEMENT_STATUS , 2
+İskanı Alınmamış,iskan_durumu,SETTLEMENT_STATUS , 2
+İskansız,iskan_durumu,SETTLEMENT_STATUS , 2
+2 Yıldız,yildiz_sayisi,STAR_COUNT , 4
+2 Yıldızlı,yildiz_sayisi,STAR_COUNT , 4
+Kongre Salonu,yapi_ozellik,STRUCTURAL_FEATURES , 6225
+Kuaför,yapi_ozellik,STRUCTURAL_FEATURES , 7037
+Kumsal,yapi_ozellik,STRUCTURAL_FEATURES , 6230
+Kat Kaloriferi,isitma,HEATING , 18
+Kat Kaloriferli,isitma,HEATING , 18
+Sıfır,yapi_durumu,BUILDING_STATUS , 1
+23 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 23
+24 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 24
+25 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 25
+26 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 26
+27 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 27
+Yatırım durumu bilinmiyor,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 1
+Merkezi (Pay Ölçer),isitma,HEATING , 19
+Merkezi pay ölçerli,isitma,HEATING , 19
+Merkezi pay ölçer,isitma,HEATING , 19
+Merkezi Doğalgaz,isitma,HEATING , 2
+Merkezi Doğalgazlı,isitma,HEATING , 2
+Küvet,yapi_ozellik,STRUCTURAL_FEATURES , 105
+Küvetli Banyo,yapi_ozellik,STRUCTURAL_FEATURES , 6625
+Kuzey Cepheli,yapi_ozellik,STRUCTURAL_FEATURES , 7014
+Lake Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 208
+Laminant,yapi_ozellik,STRUCTURAL_FEATURES , 334
+Laminant Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 207
+Lavabo / WC - Müstakil,yapi_ozellik,STRUCTURAL_FEATURES , 2306
+Lavabo / WC - Ortak,yapi_ozellik,STRUCTURAL_FEATURES , 2307
+Mağaza,yapi_ozellik,STRUCTURAL_FEATURES , 2611
+Market,yapi_ozellik,STRUCTURAL_FEATURES , 2612
+Market,yapi_ozellik,STRUCTURAL_FEATURES , 7042
+Marley,yapi_ozellik,STRUCTURAL_FEATURES , 326
+Masa Tenisi,yapi_ozellik,STRUCTURAL_FEATURES , 6235
+Merkezde,yapi_ozellik,STRUCTURAL_FEATURES , 511
+Merkezi Isıtma,yapi_ozellik,STRUCTURAL_FEATURES , 6240
+Merkezi Klima,yapi_ozellik,STRUCTURAL_FEATURES , 6245
+1 Yıldız,yildiz_sayisi,STAR_COUNT , 5
+1 Yıldızlı,yildiz_sayisi,STAR_COUNT , 5
+5-10 yıllık bina,binanin_yasi,BUILDING_AGE , 6
+1 banyolu,banyo_sayisi,BATHROOM_COUNT , 2
+2 wc,wc_sayisi,TOILETS_COUNT , 3
+2 tuvaletli,wc_sayisi,TOILETS_COUNT , 3
+2 tuvalet,wc_sayisi,TOILETS_COUNT , 3
+3 wc,wc_sayisi,TOILETS_COUNT , 4
+İkinci El,yapi_durumu,BUILDING_STATUS , 2
+2.el,yapi_durumu,BUILDING_STATUS , 2
+28 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 28
+29 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 29
+Mermer,yapi_ozellik,STRUCTURAL_FEATURES , 327
+Meşe Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 211
+Metro,yapi_ozellik,STRUCTURAL_FEATURES , 7018
+Metrobüs,yapi_ozellik,STRUCTURAL_FEATURES , 7020
+Metrobüse Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 7020
+Mini Bar,yapi_ozellik,STRUCTURAL_FEATURES , 6630
+Mini Golf,yapi_ozellik,STRUCTURAL_FEATURES , 6250
+Mobilyalı,yapi_ozellik,STRUCTURAL_FEATURES , 6
+Mobilyalı,yapi_ozellik,STRUCTURAL_FEATURES , 6255
+Muayenehane,yapi_ozellik,STRUCTURAL_FEATURES , 2613
+Müstakil Havuz,yapi_ozellik,STRUCTURAL_FEATURES , 408
+3 tuvaletli,wc_sayisi,TOILETS_COUNT , 4
+3 tuvalet,wc_sayisi,TOILETS_COUNT , 4
+30 ve üzeri Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+30 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+31 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+Krediye Uygun,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 2
+Kombi Doğalgaz,isitma,HEATING , 3
+Kombi Doğalgazlı,isitma,HEATING , 3
+Merkezi Kömür,isitma,HEATING , 4
+Merkezi Kömürlü,isitma,HEATING , 4
+Mutfak,yapi_ozellik,STRUCTURAL_FEATURES , 7028
+Mutfak - Müstakil,yapi_ozellik,STRUCTURAL_FEATURES , 2308
+Mutfak - Ortak,yapi_ozellik,STRUCTURAL_FEATURES , 2309
+Mutfak Mobilyası,yapi_ozellik,STRUCTURAL_FEATURES , 212
+Müzik Yayını,yapi_ozellik,STRUCTURAL_FEATURES , 6635
+Ocak Doğalgazı,yapi_ozellik,STRUCTURAL_FEATURES , 213
+Oda Servisi,yapi_ozellik,STRUCTURAL_FEATURES , 7046
+Ofis,yapi_ozellik,STRUCTURAL_FEATURES , 2614
+Ofis Mobilyalı,yapi_ozellik,STRUCTURAL_FEATURES , 2310
+Okula Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 513
+Ön Cephe,yapi_ozellik,STRUCTURAL_FEATURES , 514
+Otoban,yapi_ozellik,STRUCTURAL_FEATURES , 512
+Otobüs,yapi_ozellik,STRUCTURAL_FEATURES , 7022
+Otogara Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 6530
+Otopark,yapi_ozellik,STRUCTURAL_FEATURES , 2615
+Oyun Parkı,yapi_ozellik,STRUCTURAL_FEATURES , 6260
+Panel Kapı,yapi_ozellik,STRUCTURAL_FEATURES , 332
+Panjur,yapi_ozellik,STRUCTURAL_FEATURES , 423
+Parke,yapi_ozellik,STRUCTURAL_FEATURES , 333
+parke zemin,yapi_ozellik,STRUCTURAL_FEATURES , 26
+Parselli,yapi_ozellik,STRUCTURAL_FEATURES , 1405
+Pastane,yapi_ozellik,STRUCTURAL_FEATURES , 2616
+Plaj,yapi_ozellik,STRUCTURAL_FEATURES , 6265
+Poliklinik,yapi_ozellik,STRUCTURAL_FEATURES , 2617
+Projeli (Ruhsatlı),yapi_ozellik,STRUCTURAL_FEATURES , 1406
+1. Sınıf Tatil Köyü,yildiz_sayisi,STAR_COUNT , 6
+PVC Doğrama,yapi_ozellik,STRUCTURAL_FEATURES , 424
+Restaurant,yapi_ozellik,STRUCTURAL_FEATURES , 6270
+4 wc,wc_sayisi,TOILETS_COUNT , 5
+4 tuvaletli,wc_sayisi,TOILETS_COUNT , 5
+4 tuvalet,wc_sayisi,TOILETS_COUNT , 5
+32 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+33 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+Doğalgaz sobalı,isitma,HEATING , 5
+Merkezi Fueloil,isitma,HEATING , 6
+Kombi Fueloil,isitma,HEATING , 7
+Restoran,yapi_ozellik,STRUCTURAL_FEATURES , 2618
+Sanayi Elektriği,yapi_ozellik,STRUCTURAL_FEATURES , 1407
+11-20 yıllık bina,binanin_yasi,BUILDING_AGE , 7
+Saten Boya,yapi_ozellik,STRUCTURAL_FEATURES , 335
+Sauna,yapi_ozellik,STRUCTURAL_FEATURES , 21
+Sauna - Hamam,yapi_ozellik,STRUCTURAL_FEATURES , 6275
+Şehir Manzaralı,yapi_ozellik,STRUCTURAL_FEATURES , 6540
+Şehir Merkezi,yapi_ozellik,STRUCTURAL_FEATURES , 6545
+Şehir Merkezine Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 6550
+Şemsiye,yapi_ozellik,STRUCTURAL_FEATURES , 7033
+Seramik Zemin,yapi_ozellik,STRUCTURAL_FEATURES , 337
+Ses Yalıtımı,yapi_ozellik,STRUCTURAL_FEATURES , 425
+Setüstü Ocak,yapi_ozellik,STRUCTURAL_FEATURES , 7005
+Şezlong,yapi_ozellik,STRUCTURAL_FEATURES , 7034
+Siding,yapi_ozellik,STRUCTURAL_FEATURES , 426
+Sinema,yapi_ozellik,STRUCTURAL_FEATURES , 6285
+Sıcak Su,yapi_ozellik,STRUCTURAL_FEATURES , 18
+Şofben,yapi_ozellik,STRUCTURAL_FEATURES , 7001
+Şömine,yapi_ozellik,STRUCTURAL_FEATURES , 15
+5 wc,wc_sayisi,TOILETS_COUNT , 6
+Sondaj Kuyusu,yapi_ozellik,STRUCTURAL_FEATURES , 7047
+Sosyal Tesis,yapi_ozellik,STRUCTURAL_FEATURES , 412
+Spor Kompleksi,yapi_ozellik,STRUCTURAL_FEATURES , 6280
+Spor Salonu,yapi_ozellik,STRUCTURAL_FEATURES , 19
+Spot Işık,yapi_ozellik,STRUCTURAL_FEATURES , 338
+Squash,yapi_ozellik,STRUCTURAL_FEATURES , 6295
+Su Deposu,yapi_ozellik,STRUCTURAL_FEATURES , 28
+20 ve üzeri yıllık bina,binanin_yasi,BUILDING_AGE , 8
+5 tuvaletli,wc_sayisi,TOILETS_COUNT , 6
+5 tuvalet,wc_sayisi,TOILETS_COUNT , 6
+34 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+Klimalı,isitma,HEATING , 8
+Sobalı,isitma,HEATING , 9
+Su Hattı,yapi_ozellik,STRUCTURAL_FEATURES , 1408
+Su Sporları,yapi_ozellik,STRUCTURAL_FEATURES , 6300
+Tekerlekli Sandalye,yapi_ozellik,STRUCTURAL_FEATURES , 7038
+Telefon,yapi_ozellik,STRUCTURAL_FEATURES , 6640
+2. Sınıf Tatil Köyü,yildiz_sayisi,STAR_COUNT , 7
+Özel Belgeli turistik tesis,yildiz_sayisi,STAR_COUNT , 8
+Günlük Kiralık,gm_durumu,TRADE_TYPE , 22
+Telefon Hattı,yapi_ozellik,STRUCTURAL_FEATURES , 1409
+Telefon Hattı,yapi_ozellik,STRUCTURAL_FEATURES , 2305
+Tenis Kortu,yapi_ozellik,STRUCTURAL_FEATURES , 11
+Termal Havuz,yapi_ozellik,STRUCTURAL_FEATURES , 6200
+Toplu Ulaşıma Yakın,yapi_ozellik,STRUCTURAL_FEATURES , 516
+Tramvay,yapi_ozellik,STRUCTURAL_FEATURES , 7019
+Tren İstasyonu,yapi_ozellik,STRUCTURAL_FEATURES , 7025
+TV,yapi_ozellik,STRUCTURAL_FEATURES , 6645
+Üretim Tesisi,yapi_ozellik,STRUCTURAL_FEATURES , 2619
+Ütü,yapi_ozellik,STRUCTURAL_FEATURES , 7044
+Uydu,yapi_ozellik,STRUCTURAL_FEATURES , 7030
+Vapur İskelesi,yapi_ozellik,STRUCTURAL_FEATURES , 7026
+6+ wc,wc_sayisi,TOILETS_COUNT , 7
+6+ tuvaletli,wc_sayisi,TOILETS_COUNT , 7
+6+ tuvalet,wc_sayisi,TOILETS_COUNT , 7
+35 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+36 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+Voleybol Sahası,yapi_ozellik,STRUCTURAL_FEATURES , 414
+Wi-Fi,yapi_ozellik,STRUCTURAL_FEATURES , 7008
+Yan Cephe,yapi_ozellik,STRUCTURAL_FEATURES , 517
+Yangın Alarmı,yapi_ozellik,STRUCTURAL_FEATURES , 7010
+Yangın Merdiveni,yapi_ozellik,STRUCTURAL_FEATURES , 6315
+Yeşil Alan Manzaralı,yapi_ozellik,STRUCTURAL_FEATURES , 518
+Yolu Açılmış,yapi_ozellik,STRUCTURAL_FEATURES , 1410
+Yüksek Tavan,yapi_ozellik,STRUCTURAL_FEATURES , 350
+Yürüyüş Parkuru,yapi_ozellik,STRUCTURAL_FEATURES , 417
+Yüzme Havuzu - Açık,yapi_ozellik,STRUCTURAL_FEATURES , 16
+Yüzme Havuzu - Kapalı,yapi_ozellik,STRUCTURAL_FEATURES , 17
+Zemin Etüdlü,yapi_ozellik,STRUCTURAL_FEATURES , 1411
+0 banyolu,banyo_sayisi,BATHROOM_COUNT , 1
+37 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+38 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+39 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+40 Katlı,binanin_kat_sayisi,FLOOR_COUNT_OF_BUILDING , 30
+Yatırım durumu bilinmeyen,yatirima_uygunluk,AVAILABLE_FOR_INVESTMENT , 1
+krediye uygun olan,krediye_uygunluk,AVAILABLE_FOR_CREDIT , 2
+6 tuvaletli,wc_sayisi,TOILETS_COUNT , 7
+6 tuvalet,wc_sayisi,TOILETS_COUNT , 7
+Stüdyo,oda_sayisi,ROOM_COUNT , 1
+1 oda,oda_sayisi,ROOM_COUNT , 2
+1 odalı,oda_sayisi,ROOM_COUNT , 2
+1+1,oda_sayisi,ROOM_COUNT , 3
+2+1,oda_sayisi,ROOM_COUNT , 5
+2+2,oda_sayisi,ROOM_COUNT , 6
+3+1,oda_sayisi,ROOM_COUNT , 7
+3+2,oda_sayisi,ROOM_COUNT , 8
+4+1,oda_sayisi,ROOM_COUNT , 9
+4+2,oda_sayisi,ROOM_COUNT , 10
+5,oda_sayisi,ROOM_COUNT , 11
+5+1,oda_sayisi,ROOM_COUNT , 12
+5+2,oda_sayisi,ROOM_COUNT , 13
+5+3,oda_sayisi,ROOM_COUNT , 14
+5+4,oda_sayisi,ROOM_COUNT , 15
+6+1,oda_sayisi,ROOM_COUNT , 16
+6+2,oda_sayisi,ROOM_COUNT , 17
+6+3,oda_sayisi,ROOM_COUNT , 22
+6+4,oda_sayisi,ROOM_COUNT , 23
+7+1,oda_sayisi,ROOM_COUNT , 18
+7+2,oda_sayisi,ROOM_COUNT , 20
+7+3,oda_sayisi,ROOM_COUNT , 21
+8+,oda_sayisi,ROOM_COUNT , 19
+1+2,oda_sayisi,ROOM_COUNT , 4
+site içinde,site_icerisinde,IN_APARTMENT_COMPLEX  , 1
+site içerisinde,site_icerisinde,IN_APARTMENT_COMPLEX , 1
+sitede,site_icerisinde,IN_APARTMENT_COMPLEX , 1
+sitede olmayan,site_icerisinde,IN_APARTMENT_COMPLEX , 2
+site içinde olmayan,site_icerisinde,IN_APARTMENT_COMPLEX , 2
+site içerisinde olmayan,site_icerisinde,IN_APARTMENT_COMPLEX , 2
+eşyalı,esya_durumu,FURNISHED_OPTION , 2
+eşyası olan,esya_durumu,FURNISHED_OPTION , 2
+eşyasız,esya_durumu,FURNISHED_OPTION , 1
+eşyası olmayan,esya_durumu,FURNISHED_OPTION , 1
+mobilyalı,esya_durumu,FURNISHED_OPTION , 2
+mobilyasız,esya_durumu,FURNISHED_OPTION , 1
