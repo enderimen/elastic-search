@@ -1,7 +1,5 @@
 var express = require('express'),
     app = express(),
-    path = require('path'),
-    url = require('url'),
     client = require('./config.js'),
     fs = require('fs'),
     csv = require('csv-parser');
