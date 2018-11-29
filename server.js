@@ -4,12 +4,11 @@ var express = require('express'),
     fs = require('fs'),
     csv = require('csv-parser');
 
-    const results = [];
-
     fs.createReadStream('search-case.csv')
+    // formatting(mapping)
     .pipe(csv(['str', 'slug', 'key','id']))
     .on('data', (data) => {
-
+        // add new POST 
         client.index({
             index: 'ender',
             type: 'ender_type',
@@ -28,13 +27,14 @@ var express = require('express'),
         });
 
     })
+    // end read file
     .on('end', (data) => {
         console.log('Finished!');
     });
 
     // Client healt info
     client.cluster.health({}, (err,resp,status) => {
-        // console.log("-- Client Health --",resp);
+        console.log("-- Client Health --",resp);
     });
 
 console.log("On port: 8000");
